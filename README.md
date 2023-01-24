@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript, HTML e CSS
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me wesleys.494@gmail.com
-- 👨‍💻 More at [wssarmento.dev](https://wssarmento.dev)
+- 👨‍💻 More at [wssarmento.dev.br](https://wssarmento.dev.br)
 
 
 <!---
